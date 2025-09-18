@@ -28,8 +28,22 @@ Here’s a glimpse of Konoha-Connect in action. *Replace the placeholder paths w
 | <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8589267f-9ae1-4c24-b78b-358e40adda92" />
 
 Creating a account:
- |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d874af43-1f34-4e8f-a45d-bcb54373ec35" />
- |
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d874af43-1f34-4e8f-a45d-bcb54373ec35" />|
+
+ Chat section:
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/47908123-cda6-4c9c-be31-d52fa145655c" />|
+
+ lets send a message to someone:
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/496ebf90-d9aa-46c4-948a-99f8eaf3aac9" />|
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/59ee9945-8c4a-4740-8d49-d44c25e556dc" />|
+
+ After adding the feature to upload your profile pics:
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a501df6d-5ec0-4cc0-a81d-b62854b47856" />|
+
+
+
+
+
 
 
 -----
