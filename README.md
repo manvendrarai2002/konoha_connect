@@ -24,10 +24,13 @@ Welcome to **Konoha-Connect**, a feature-rich, real-time chat application built 
 Here’s a glimpse of Konoha-Connect in action. *Replace the placeholder paths with the actual paths to your screenshots.*
 
 | Login Page | Chat Interface |
+
 | <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8589267f-9ae1-4c24-b78b-358e40adda92" />
+
+Creating a account:
  |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d874af43-1f34-4e8f-a45d-bcb54373ec35" />
  |
-|  |  |
+
 
 -----
 
