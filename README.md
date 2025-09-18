@@ -1,3 +1,5 @@
+Of course\! Here is the modified `README.md` with the requested "Application Preview" section for your screenshots.
+
 # ✨ Konoha-Connect: A Full Stack Real-Time Chat App ✨
 
 Welcome to **Konoha-Connect**, a feature-rich, real-time chat application built with a modern technology stack. This project demonstrates a complete full-stack implementation, from user authentication and real-time messaging to cloud-based media handling, all wrapped in a Naruto-themed UI.
@@ -14,6 +16,18 @@ Welcome to **Konoha-Connect**, a feature-rich, real-time chat application built 
   - **Global State Management**: Efficient and centralized state management on the frontend using **Zustand**.
   - **Responsive UI**: A beautiful, responsive user interface built with **Tailwind CSS** and **daisyUI**, featuring a custom "Konoha" theme.
   - **Robust Error Handling**: Comprehensive error handling on both the server and client to ensure a smooth user experience.
+
+-----
+
+## 📸 Application Preview
+
+Here’s a glimpse of Konoha-Connect in action. *Replace the placeholder paths with the actual paths to your screenshots.*
+
+| Login Page | Chat Interface |
+| <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8589267f-9ae1-4c24-b78b-358e40adda92" />
+ |<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d874af43-1f34-4e8f-a45d-bcb54373ec35" />
+ |
+|  |  |
 
 -----
 
